@@ -6,19 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Building and styling a web Project using HTML, CSS and Bootstarp</h2>
-    <br>
             <h3>Welcome to <mark>Incredible India</mark></h3>
     <br>
  <div>
             <h4>Discover the diversity,and rich heritage of India! </h4>
     <br>
     <ul>
-        <li><a href="./page1.html">Home</a></li>
-        <li><a href="">Culture</a></li>
-        <li><a href="./page2.html">Landmarks</a></li>
-        <li><a href="./page3.html">Cuisine</a></li>
-        <li><a href="">Contact Us</a></li>
+         <li><a href="./cuisine.html">Cuisine</a></li>
+        <li><a href="./culture.html">Culture</a></li>
+        <li><a href="./landmark.html">Landmarks</a></li>
+        <li><a href="./ContactUs.html">Contact Us</a></li>
     </ul>
 </div>
     <br>
@@ -27,7 +24,7 @@
     <br>
          <p>India is a land of Incredible diversity. From the snow-capped peaks of Himalayas to the seren backwaters of Kerela, every corner of India tells a unique story. India is <b>second-most populous country</b>in the world and boasts a history spanning thousands of years. Its rich traditions have left an indelible mark on the world.  </p>
     <br>
-        <img src="C:\Users\pkkap\OneDrive\Desktop\YASH\WebDesignProject-main\india_map.jpg" alt="" height="700px">
+        <img src="../WebDesignProject-main/india_map.jpg" alt="404" >
     <br>
         <blockquote>India: A land of cultural and geographical diversity 
         <br><br>
@@ -49,9 +46,9 @@
     <br>
     <ol>
         <li> The Taj Mahal,a symbol of enternal love </li><br>
-        <img src="C:\Users\pkkap\OneDrive\Desktop\YASH\WebDesignProject-main\tajmahal.jpg" alt="404">
+        <img src="../WebDesignProject-main/tajmahal.jpg" alt="404">
         <li> The Qutub Minar,an architectural marvel in Delhi</li><br>
-        <img src="C:\Users\pkkap\OneDrive\Desktop\YASH\WebDesignProject-main\qutubminar.jpg" alt="404">
+        <img src="../WebDesignProject-main/qutubminar.jpg" alt="404">
      </ol>
 </div>
     Don't miss exploring the inticate carvings, towring minarets,and breathtaking landscape!
@@ -65,7 +62,7 @@
         <li><b><i>Music</i></b>:Traditional instruments like sitar,tabla and veena.</li>
         <li><b><i>Festivals</i></b>:Diwali,Holi,Eid and Christmas bring people together in celebration.</li>
     </ul>
-    <img src="C:\Users\pkkap\OneDrive\Desktop\YASH\WebDesignProject-main\dance.jpg" alt="404">
+    <img src="../WebDesignProject-main/dance.jpg" alt="404">
     <br>
     <p>A glimpse of Indian Classical Dance</p>
     <br>
@@ -81,14 +78,14 @@
     <br>
     <ol>
         <li>Delicious Hyderabadi biryani</li><br>
-        <img src="C:\Users\pkkap\OneDrive\Desktop\YASH\WebDesignProject-main\biryani.jpg" alt="404">
+        <img src="../WebDesignProject-main/biryani.jpg" alt="404">
         <li>Colourful and flavourful Indian street Food.</li><br>
-        <img src="C:\Users\pkkap\OneDrive\Desktop\YASH\WebDesignProject-main\street_food.jpg" alt="404">
+        <img src="../WebDesignProject-main/street_food.jpg" alt="404">
     </ol>
     <br>
-    <i>Contact us at <a href="">info@incredibleindia.com</a></i><hr>
-    &copy; 2025 Incredible India Project. All rights reserved. <hr>
-    Follow us on: <a href="">Facebook</a> | <a href="">Twitter</a>
+    <p><i>Contact us at <a href="">info@incredibleindia.com</a></i></p>
+    &copy; 2025 Incredible India Project. All rights reserved.
+    <p>Follow us on: <a href="">Facebook</a> | <a href="">Twitter</a></p>
 
 
 
